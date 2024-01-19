@@ -1,0 +1,75 @@
+site,mean,latitude,longitude,site_type
+Aberdeen,5.371803789877669,57.15736,-2.094278,Urban Background
+Auchencorth Moss,2.5497840031417724,55.79216,-3.2429,Rural Background
+Barnstaple A39,10.701091045899172,51.074793,-4.041924,Urban Traffic
+Belfast Centre,9.554777581120945,54.59965,-5.928833,Urban Background
+Birmingham A4540 Roadside,13.283601286173633,52.47609,-1.875024,Urban Traffic
+Birmingham Acocks Green,10.2270339675499,52.437165,-1.829999,Urban Background
+Birmingham Tyburn,11.189479315263908,52.511722,-1.830583,Urban Background
+Birmingham Tyburn Roadside,12.487219613980177,52.512194,-1.830861,Urban Traffic
+Blackpool Marton,7.8374239103968835,53.80489,-3.007175,Urban Background
+Bristol St Paul's,11.660834884339272,51.462839,-2.584482,Urban Background
+Camden Kerbside,15.020310095869334,51.54421,-0.175269,Urban Traffic
+Cardiff Centre,9.66219835907336,51.48178,-3.17625,Urban Background
+Carlisle Roadside,9.890200916461051,54.894834,-2.945307,Urban Traffic
+Chatham Roadside,11.525639710319854,51.374264,0.54797,Urban Traffic
+Chepstow A48,11.164108701774149,51.638094,-2.678731,Urban Traffic
+Chesterfield Loundsley Green,10.214576437415717,53.244131,-1.454946,Urban Background
+Chesterfield Roadside,11.31504713560551,53.231722,-1.456944,Urban Traffic
+Chilbolton Observatory,9.446671279406214,51.149617,-1.438228,Rural Background
+Coventry Allesley,10.374580546755837,52.411563,-1.560228,Urban Background
+Derry,14.144131097560976,55.001225,-7.329115,Urban Background
+Derry Rosemount,9.365395139224207,55.002818,-7.331179,Urban Background
+Eastbourne,12.707324595219738,50.805778,0.271611,Urban Background
+Edinburgh St Leonards,6.350234567901235,55.945589,-3.182186,Urban Background
+Glasgow High Street,10.079261435523115,55.860936,-4.238214,Urban Traffic
+Glasgow Townhead,6.838746606868877,55.865782,-4.243631,Urban Background
+Grangemouth,6.415598713508165,56.010319,-3.704399,Urban Industrial
+Haringey Roadside,14.251462621885157,51.5993,-0.068218,Urban Traffic
+Harwell,3.919672131147541,51.571078,-1.325283,Rural Background
+Hull Freetown,11.242616889312977,53.748779999999996,-0.341222,Urban Background
+Leamington Spa,10.492389506026944,52.28881,-1.533119,Urban Background
+Leamington Spa Rugby Road,9.715085592011413,52.294884,-1.542911,Urban Traffic
+Leeds Centre,9.591178596409419,53.80378,-1.546472,Urban Background
+Leeds Headingley Kerbside,12.09332518621974,53.819972,-1.576361,Urban Traffic
+Leicester University,11.550549583283004,52.619823,-1.127311,Urban Background
+Liverpool Speke,10.037520108897414,53.34633,-2.8443329999999998,Urban Industrial
+London Bexley,10.613815461346633,51.46603,0.184806,Suburban Background
+London Bloomsbury,12.018019306399713,51.52229,-0.125889,Urban Background
+London Eltham,11.707933627171377,51.45258,0.070766,Suburban Background
+London Harlington,10.069241910813037,51.48879,-0.441614,Urban Industrial
+London Harrow Stanmore,11.173679566368335,51.617333,-0.298777,Urban Background
+London Marylebone Road,15.881201304090101,51.52253,-0.154611,Urban Traffic
+London N. Kensington,12.144701020904229,51.52105,-0.213492,Urban Background
+London Teddington Bushy Park,8.963151141904028,51.425286,-0.345606,Urban Background
+Manchester Piccadilly,10.205356900067981,53.48152,-2.237881,Urban Background
+Middlesbrough,10.178024119868438,54.569297,-1.220874,Urban Industrial
+Newcastle Centre,8.925357009810009,54.97825,-1.610528,Urban Background
+Newport,10.184255930984904,51.601203,-2.977281,Urban Background
+Norwich Lakenfields,10.883474205770913,52.614193,1.301976,Urban Background
+Nottingham Centre,11.920363118547526,52.95473,-1.146447,Urban Background
+Oxford St Ebbes,14.1796875,51.744806,-1.260278,Urban Background
+Plymouth Centre,10.703911980440099,50.37167,-4.142361,Urban Background
+Port Talbot Margam,9.369953755780527,51.58395,-3.770822,Urban Industrial
+Portsmouth,11.626210539554773,50.82881,-1.068583,Urban Background
+Preston,9.758182033938532,53.76559,-2.680353,Urban Background
+Reading New Town,9.050169236555096,51.45309,-0.944067,Urban Background
+Rochester Stoke,11.300247653806048,51.45617,0.634889,Rural Background
+Salford Eccles,10.467352436933627,53.48481,-2.334139,Urban Background
+Saltash Callington Road,8.26819373533876,50.411463,-4.227678,Urban Traffic
+Sandy Roadside,12.386970022691987,52.132417,-0.300306,Urban Traffic
+Sheffield Devonshire Green,9.529057772483622,53.378622,-1.478096,Urban Background
+Southampton Centre,10.684367681498829,50.90814,-1.395778,Urban Background
+Southend-on-Sea,11.727027710995824,51.544206,0.678408,Urban Background
+Stanford-le-Hope Roadside,13.406548362909273,51.518167,0.439548,Urban Traffic
+Stockton-on-Tees A1305 Roadside,10.464565384615385,54.565819,-1.3159,Urban Traffic
+Stockton-on-Tees Eaglescliffe,9.068572395128552,54.516667,-1.358547,Urban Traffic
+Stoke-on-Trent Centre,11.666523860526002,53.02821,-2.175133,Urban Background
+Storrington Roadside,13.243571605857532,50.916932,-0.449548,Urban Traffic
+Sunderland Silksworth,8.02626953125,54.88361,-1.406878,Urban Background
+Swansea Roadside,13.367035445757251,51.632696,-3.947374,Urban Traffic
+Warrington,10.586833077014077,53.38928,-2.615358,Urban Industrial
+Wigan Centre,10.588675896343627,53.54914,-2.638139,Urban Background
+Wirral Tranmere,7.888772183991308,53.37287,-3.022722,Urban Background
+York Bootham,9.807918006430867,53.967513,-1.086514,Urban Background
+York Fishergate,11.955952671383264,53.951889,-1.075861,Urban Traffic
